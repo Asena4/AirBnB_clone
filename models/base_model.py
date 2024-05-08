@@ -7,8 +7,6 @@ This Module contains a definition for BaseModel Class
 import uuid
 from datetime import datetime
 
-import models
-
 
 class BaseModel:
     """BaseModel Class"""
