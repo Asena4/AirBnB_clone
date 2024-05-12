@@ -1,1 +1,1 @@
-This repository contains the AirBnB clone project
+This directory contains the AirBnB clone project
